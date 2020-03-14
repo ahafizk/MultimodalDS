@@ -1,2 +1,2 @@
-# multimodal_ds
+# multimodal Sensor Data Processing and classification
  
